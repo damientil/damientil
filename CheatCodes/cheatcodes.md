@@ -22,3 +22,7 @@ sudo apt list ~c
 ```
 sudo apt purge ~c
 ```
+
+## Share files with SCP
+Secure Copy Protocol (scp) sends files over SSH. You can use scp to copy files between your Raspberry Pi and another computer.
+To use scp, you need target IP address.
